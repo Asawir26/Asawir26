@@ -3,7 +3,7 @@
 ## About me
 
 I am a 4th semester student in Fast University. I am enrolled in
-Computer Science . I am interested in cloud , data science ,web d>
+Computer Science . I am interested in cloud , data science ,web development.
 
 ## Currently Working On
 - Database project
