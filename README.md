@@ -18,6 +18,7 @@ Computer Science . I am interested in cloud , data science ,web development.
 - HTML & CSS
 - javascript
 - python
+- java
 
 ## Reach me
 You can reach me at my email : asawirhy123@gmail.com
