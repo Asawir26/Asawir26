@@ -20,17 +20,33 @@
   <a href="mailto:asawirhy123@gmail.com"><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 </p>
 
-<!-- 3. ABOUT ME — YAML style block -->
-```yaml
-About Me:
-  name: "Asawir"
-  role: "Cloud Computing Intern @ DecodeLabs (AWS Track)"
-  currently_learning: "Graphic Design"
-  goal: "Remote freelance design + AWS/cloud work"
-  languages: [Python, C++, JavaScript, HTML, CSS, SQL]
-  tools: [Linux, Git]
-```
+<!-- 3. ABOUT ME — typing animation + info table -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DD5FA&center=true&vCenter=true&width=500&lines=Cloud+Computing+Intern+%40+DecodeLabs;Learning+Graphic+Design;Building+towards+remote+freelance+work" alt="Typing SVG" />
+</p>
 
+<table align="center">
+  <tr>
+    <td><b>🧑‍💻 Role</b></td>
+    <td>Cloud Computing Intern @ DecodeLabs (AWS Track)</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Currently Learning</b></td>
+    <td>Graphic Design</td>
+  </tr>
+  <tr>
+    <td><b>🚀 Goal</b></td>
+    <td>Remote freelance design + AWS/cloud work</td>
+  </tr>
+  <tr>
+    <td><b>💻 Languages</b></td>
+    <td>Python · C++ · JavaScript · HTML · CSS · SQL</td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Tools</b></td>
+    <td>Linux · Git</td>
+  </tr>
+</table>
 <!-- 4. TECH STACK ICONS -->
 <h3 align="center">🧰 Tools & Tech</h3>
 <p align="center">
