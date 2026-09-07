@@ -116,8 +116,8 @@
 
 <!-- 5. STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asawir26&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asawir26&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-tau-nine.vercel.app/api?username=Asawir26&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-tau-nine.vercel.app/api/top-langs/?username=Asawir26&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <!-- 6. CONTRIBUTION SNAKE (needs GitHub Action set up — see notes below) -->
